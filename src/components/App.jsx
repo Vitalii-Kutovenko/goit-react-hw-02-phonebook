@@ -25,7 +25,7 @@ export class App extends Component {
   handleSubmit = e => {
     e.preventDefault();
 
-    const { name, number, contacts } = this.state;
+    const { name, number } = this.state;
 
     if (this.isContactExists(name)) {
       alert(`${name} is already in contacts.`);
