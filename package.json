@@ -4,8 +4,6 @@
   "private": true,
   "homepage": "https://TyomaShapoval.github.io/goit-react-hw-02-phonebook/",
   "dependencies": {
-    "@emotion/css": "^11.11.0",
-    "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
