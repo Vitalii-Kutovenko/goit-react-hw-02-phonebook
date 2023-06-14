@@ -6,6 +6,7 @@ import { WrapperContent } from './App.styled';
 import { nanoid } from 'nanoid';
 import Notiflix from 'notiflix';
 
+
 export class App extends Component {
   state = {
     contacts: [
